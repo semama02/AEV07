@@ -1,0 +1,46 @@
+#div1{
+    background-color: #0f111a;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    border-radius: 5px;
+    margin: auto;
+}
+
+div{
+    display: flex;
+    flex-direction: row;
+}
+
+input{
+    height: 20px;
+    background-color: #e1a07a;
+
+}
+
+button{
+    height: 26px;
+}
+
+p{
+    padding: 0px;
+    margin: 0px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    width: 220px;
+    text-align: center;
+    background-color: #353535;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
